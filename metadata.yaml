@@ -13,6 +13,8 @@ covers:
 - cover_type: archival
   image_path: 14081-h/images/cover.gif
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14081#The-Three-Jovial-Huntsmen
 gutenberg_bookshelf: Children's Picture Books
 gutenberg_issued: '2004-11-18'
 gutenberg_type: Text
